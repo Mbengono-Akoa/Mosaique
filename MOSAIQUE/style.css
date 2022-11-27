@@ -57,7 +57,7 @@ nav .fab {
     content: '';
     width: 0%;
     height: 2px;
-    background: pink;
+    background: purple;
     display: block;
     margin: auto;
     transition: 0.5s;
